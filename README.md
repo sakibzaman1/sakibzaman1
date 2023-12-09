@@ -21,6 +21,7 @@ Here are some things to know about me :
 
 # Reach me Out
 
+
 `Email` : sakibzaman20@gmail.com <br>
 `Linked in` : https://www.linkedin.com/in/md-sakib-uz-zaman-23b3722a4/ <br>
 `Facebook` : https://www.facebook.com/profile.php?id=100058584994066
@@ -33,9 +34,11 @@ Here are some things to know about me :
 
 # Current Stats
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakibzaman1&theme=dark)](https://git.io/streak-stats)
 
+## Github Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibzaman1&theme=great-gatsby&show_icons=true)
 
 # My Complete Projects
 
@@ -53,7 +56,7 @@ A Fashion & Apparel website for exploring thousands of products under some renow
 
 Live Site Link `Netlify` : [ Fashion Savvy ](https://fashion-savvy-sakib.netlify.app/)
 
-### Tourist Guide BD
+### 3. Tourist Guide BD
 
 An online platform that provides comprehensive information
 and resources for travelers seeking guidance on popular destinations in Bangladesh.
@@ -61,9 +64,6 @@ and resources for travelers seeking guidance on popular destinations in Banglade
 - Technologies : `React` , `FireBase` , `ReactRouter` , `MongoDB` , `JWT` , `FramerMotion` , `MaterialUI` & other `React Packages`
 
 Live Site Link `Netlify` : [ Tourist Guide bd ](https://tourist-guide-sakib.netlify.app/)
-
-
-
 
 
 ## My works at a glance
